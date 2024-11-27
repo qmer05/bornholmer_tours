@@ -7,8 +7,8 @@ function MainLayout() {
         <Link to="/">
           <img src="logo.png" alt="Logo" className="logo" />
         </Link>
+        <NavLink to="/login" className="login">Login</NavLink>
       </header>
-
       <div className="content">
         <nav className="sidebar">
           <ul>

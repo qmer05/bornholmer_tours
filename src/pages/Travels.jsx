@@ -1,8 +1,7 @@
 function Travels() {
   return (
     <>
-      <h1>Travel</h1>
-      <p>This is the Travel area.</p>
+      <img src="travels-image.png" alt="Travel destinations" className="travel-image"/>
     </>
   );
 }
