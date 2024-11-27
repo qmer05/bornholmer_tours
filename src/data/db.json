@@ -1,0 +1,41 @@
+{
+    "users": [
+      {
+        "userid": 1,
+        "login": "jdoe",
+        "password": "password123",
+        "roles": ["user"]
+      },
+      {
+        "userid": 2,
+        "login": "asmith",
+        "password": "securePass456",
+        "roles": ["admin"]
+      },
+      {
+        "userid": 3,
+        "login": "mwilliams",
+        "password": "welcome789",
+        "roles": ["user", "admin"]
+      },
+      {
+        "userid": 4,
+        "login": "csuperman",
+        "password": "krypton123",
+        "roles": ["superman"]
+      },
+      {
+        "userid": 5,
+        "login": "bjones",
+        "password": "letmein000",
+        "roles": ["user"]
+      },
+      {
+        "userid": 6,
+        "login": "mjohnson",
+        "password": "pass@word1",
+        "roles": ["admin", "superman"]
+      }
+    ]
+  }
+  
