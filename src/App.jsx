@@ -5,6 +5,7 @@ function App() {
   return (
     <>
     <h1>Bornholmer Tours</h1>
+    <h2>Main page</h2>
     </>
   )
 }
